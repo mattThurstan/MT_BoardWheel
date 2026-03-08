@@ -1,0 +1,8 @@
+MT_BoardWheel 	KEYWORD1	
+Init		KEYWORD2	
+SetCounter	KEYWORD2
+IncrementCounter KEYWORD2
+DecrementCounter KEYWORD2
+ResetAllWheel  KEYWORD2
+ResetWheel  KEYWORD2	
+DoUpdate	KEYWORD2
