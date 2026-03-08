@@ -1,5 +1,6 @@
 /*
  * MT_BoardWheel.h - Library for long/short/skate board single wheel setup. Used in longboardLight1 project..
+ * Calculates speed and travel distance. 
  * Latching bipolar hall effect sensor mounted on the chassis, with 4/8 magnets mounted on the adjacent wheel.
  * MTS Standish (mattThurstan), 2026.
  * Copyleft.

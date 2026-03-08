@@ -3,6 +3,11 @@ Init		KEYWORD2
 SetCounter	KEYWORD2
 IncrementCounter KEYWORD2
 DecrementCounter KEYWORD2
-ResetAllWheel  KEYWORD2
 ResetWheel  KEYWORD2	
 DoUpdate	KEYWORD2
+DoUpdateEverySec	KEYWORD2
+GetRps		KEYWORD2
+GetMps		KEYWORD2
+GetMaxMps	KEYWORD2
+GetDistTraveledForward		KEYWORD2
+GetDistTraveledBackward		KEYWORD2
