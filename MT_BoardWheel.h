@@ -34,8 +34,8 @@ class MT_BoardWheel
 	void SetCounter(byte value); //set counter to value
 	void IncrementCounter();	//increment counter by 1
 	void DecrementCounter();	//decrement counter by 1
-	//void ResetAllWheels();
 	void ResetWheel();
+	
 	void DoUpdate(byte direction);		//call every 1 second from main program loop
 	void DoUpdateEverySec(byte direction);
 
